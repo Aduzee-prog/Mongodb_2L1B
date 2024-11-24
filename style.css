@@ -1,0 +1,11 @@
+.bgimag{
+   background: url(login_desktop.png);
+   background-size: cover;
+   height: 100vh;
+}
+nav{
+    background: url(login_desktop.png);
+    height: 50px;
+    background-size: cover;
+}
+
